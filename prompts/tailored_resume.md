@@ -52,14 +52,38 @@ This is the first jd_point: JD_POINT_HERE
 
 This is the first set of bullet points: BULLET_POINTS_HERE
 ```
+**Reiterated JD_Points**
+```
+Okay. So now can we please reiterate the list of job duties, requirements, and skills for the position, also known as JD_Points?
+```
 
 ## 2.3 - Trimming
+**Formatted Trimming**
+```
+Okay, now I need to make the bullet points more concise. Before we do that, I want to let you know that the final form of the bullet point for the resume should be as follows:
+
+- [Subheading Mapped/Mirrored to JD_Point]: [Achievement (What?)] by [Description of Skills (How?)] using [Tools/Hard skills (Where?)]
+
+Attach the ID of the JD_Point to each bullet point, then condense the bullet points for make them more concise. For each subheading, start with an active verb in the past tense. 
+```
+
+**Unformatted Trimming**
 ```
 Now we need to make these more concise. I will give you a jd_point. Then, I will give you a set of one or more bullet points. You give me a concise version of each bullet point, keeping the pertinent information and removing extraneous or overly deep details. Make sure you still convey the skill and duties mentioned in the jd_point, and provide enough specificity for the reader to understand how the skill was applied. Make sure to maintain the language of the jd_point as well.
 
 This is the first jd_point: INSERT_JD_POINT
 
 This is the first set of bullet points: INSERT_BULLET_POINTS_HERE 
+```
+
+**Common Sense Check**
+```
+Now let's make it even more concise. Bullet points that center around "Common Sense" jd_points (jd_points that any professional is assumed to have as well-adjusted, functioning professional adults) should be eliminated and whatever unique nuance they provide should be integrated into one or more of the other bullet points.
+```
+
+**Nuance Retention**
+```
+Review the work histories and determine if you've eliminated too much or missed nuances unique to the work history that could validate skills.
 ```
 
 ## 2.4 Quantification
@@ -125,7 +149,23 @@ EMPLOYER_NAME help CLIENTS_AND_CUSTOMERS by GOODS_OR_SERVICE. As part of their d
 ```
 
 # 3 - Skills Section
-## 3.1 - Getting the List
+## 3.1 - Resume-Derived
+**Getting the List**
+```
+Now take the resume and make a skills section which has three skill categories (no soft skills) which each categories as a bulleted list of skills.
+```
+
+**Validation Check**
+```
+Here is my resume currently:
+
+INSERT_RESUME
+
+Is every skill validated by the bullet points? And is every skill validated by the job description?
+```
+
+## 3.2 - JD-Derived
+**Getting the List**
 ```
 Now let's work on the skills section. As a reminder, here's the job description:
 
@@ -138,7 +178,7 @@ Perform the following workflow:
 4. Refine your list into a polished Skills Section ("refined list"), grouped under categories, for my resume.
 ```
 
-## 3.2 - Tailoring Skills to Resume
+**Tailoring Skills to Resume**
 ```
 Now tailor each category of this refined list to my resume while keeping the wording as close to the original job description as possible. Keep the format to keywords and key phrases. Do NOT get into details or attributes specific to subject matters.
 
